@@ -5,16 +5,19 @@
 
 
 ### User Story:
-- AS A developer
-- I WANT a README generator
-- SO THAT I can quickly create a professional README for a new project
+- AS A developer on Github
+- I WANT to respond to basic prompts for input
+- SO THAT I can quickly and easily create a professional Readme for a new project
 
-
+### Install:
+Create a package.json file by running `npm init` in the root folder.
+Install Inquirer by running `npm install inquirer` in the root folder.
 
 ### Technologies Used:
 - JS
 - Node.js
-- npm inquirer
+- Inquirer
+- Shields.io
 
 ### App Preview:
 ![Image of generator running in VSCode](./assets/preview.png)<br>
