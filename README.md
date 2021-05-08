@@ -2,7 +2,7 @@
 ## A readme generator using Node.js
 
 ### Description:
-
+This project creates a basic Readme file for your Github application. It displays prompts in the termial, and uses the response to fill out a template. 
 
 ### User Story:
 - AS A developer on Github
@@ -10,7 +10,7 @@
 - SO THAT I can quickly and easily create a professional Readme for a new project
 
 ### Install:
-Create a package.json file by running `npm init` in the root folder.
+Create a package.json file by running `npm init` in the root folder.<br>
 Install Inquirer by running `npm install inquirer` in the root folder.
 
 ### Technologies Used:
