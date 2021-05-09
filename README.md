@@ -14,11 +14,12 @@ Create a package.json file by running `npm init` in the root folder.<br>
 Install Inquirer by running `npm install inquirer` in the root folder.
 
 ### Technologies Used:
-- JS
+- JavaScript
 - Node.js
 - Inquirer
 - Shields.io
 
 ### App Preview:
-![Image of generator running in VSCode](./assets/preview.png)<br>
-<!-- [Video of the app running in VSCode](./assets/video.???????????????) -->
+[Video of the app running in VSCode](https://drive.google.com/file/d/1VuEWL-9JsZqcP2GpLFsRK5DraWblc4mC/view?usp=sharing)<br>
+![Image of project running in VSCode terminal.](./assets/preview1.png)<br>
+![Second Image of project running in VSCode terminal.](./assets/preview2.png)<br>

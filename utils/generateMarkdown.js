@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents:
-[User Story](#User-Story)<br>  
+[User Story](#User-Story)<br>
 [Usage](#Usage)<br>
 [Installation](#Installation)<br>
 [Contributing](#Contributing)<br>
@@ -37,7 +37,7 @@ Reach me at my [Github](https://github.com/${data.github}).<br>
 Email me at <${data.email}>
 
 ## License:
-Covered under the [${data.license}](https://github.com/${data.github}/${data.repo}/blob/main/LICENSE) license.
+Covered under the [${data.license}](https://github.com/${data.github}/${data.repo}/blob/main/LICENSE).
 `;
 }
 
